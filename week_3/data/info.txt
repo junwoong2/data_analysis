@@ -1,0 +1,7 @@
+daniel:
+    age: 30
+    phone: 010-1111-1111
+karns:
+    age: 44
+    city: seoul
+    phone: 000-0000-0000
